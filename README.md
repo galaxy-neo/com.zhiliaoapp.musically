@@ -4,7 +4,7 @@
 # tiktok-accounts-maker
 TikTok accounts maker created users algorithms x-ladon x-argus x-gorgon last version
 
-## last version 39.4.3
+## last version
 
 **Contact for api :** [https://t.me/Neo_Galaxy](https://t.me/Neo_Galaxy)
 ## telegram: @neo_galaxy
